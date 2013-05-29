@@ -1,0 +1,1 @@
+<div class="client_item"><?php print $fields['title']->content;?> - <span><?php print $fields['field_description']->content;?></span></div>

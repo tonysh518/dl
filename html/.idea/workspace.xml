@@ -37,7 +37,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="25" selection-start="133" selection-end="133" vertical-scroll-proportion="0.06275805">
+            <state line="6" column="57" selection-start="146" selection-end="146" vertical-scroll-proportion="0.09413708">
               <folding />
             </state>
           </provider>
@@ -129,6 +129,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -242,7 +243,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="25" selection-start="133" selection-end="133" vertical-scroll-proportion="0.06275805">
+        <state line="6" column="57" selection-start="146" selection-end="146" vertical-scroll-proportion="0.09413708">
           <folding />
         </state>
       </provider>

@@ -12,25 +12,30 @@
         <div class="phd phd_project">
             <h1 class="logo"><a href="index.html" title="home" >DLArchitecture</a></h1>
             <a href="#" title="" class="cn"></a>
-            <ul class="nav cs-clear">
-                <li class="navitem"><a href="index.html" >Studio</a>-</li>
-                <li class="navitem secondopen">
-                    <a href="project_list.html" class="on">
-                        Selected Projects
-                    </a>-
-                    <div class="nav_menu nav_menu_pro">
-                        <a href="#">Residential</a>
-                        <a href="#">Commercial</a>
-                        <a href="#">Office</a>
-                        <a href="#">Hospitality</a>
-                        <a href="#">Architecture</a>
-
-                    </div>
-                </li>
-                <li class="navitem"><a href="before_after.html"  >Before & After</a>-</li>
-                <li class="navitem"><a href="#" >Press</a>-</li>
-                <li class="navitem"><a href="contact.html" >Contact</a></li>
-            </ul>
+<ul class="nav cs-clear">
+    <li class="navitem"><a href="<?php print $base_path;?>who-we-are" >Studio</a>-
+        <div class="nav_menu">
+            <a href="<?php print $base_path;?>who-we-are">Who we are</a>
+            <a href="#">What we do</a>
+            <a href="<?php print $base_path;?>client">Clients</a>
+        </div>
+    </li>
+    <li class="navitem secondopen">
+        <a href="project_list.html" class="on">
+            Selected Projects
+        </a>-
+        <div class="nav_menu nav_menu_pro">
+            <a href="<?php print $base_path;?>project/1">Residential</a>
+            <a href="<?php print $base_path;?>project/2">Commercial</a>
+            <a href="<?php print $base_path;?>project/3">Office</a>
+            <a href="<?php print $base_path;?>project/4">Hospitality</a>
+            <a href="<?php print $base_path;?>project/5">Architecture</a>
+        </div>
+    </li>
+    <li class="navitem"><a href="<?php print $base_path;?>before-after"  >Before & After</a>-</li>
+    <li class="navitem"><a href="<?php print $base_path;?>press" >Press</a>-</li>
+    <li class="navitem"><a href="<?php print $base_path;?>contact" >Contact</a></li>
+</ul>
         </div>
         <div class="pbd">
             <div class="mod mod_pro cs-clear">
