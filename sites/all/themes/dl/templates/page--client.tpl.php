@@ -11,3 +11,6 @@
         <?php print render($page['footer']); ?>
     </div>
 </div>
+<script>
+    var page_path = 'studio';
+</script>

@@ -11,10 +11,10 @@
                     <?php print $node->body[und][0][value]?>
                 </div>
                 <div class="message">
-                    <form action="">
-                        <div class="mess_fi"><input class="ipt_mess" type="text" value="Name" onfocus="if (value =='Name'){value =''}" onblur="if (value ==''){value='Name'}" /></div>
-                        <div class="mess_fi"><input class="ipt_mess" type="text" value="Email" onfocus="if (value =='Email'){value =''}" onblur="if (value ==''){value='Email'}" /></div>
-                        <div class="mess_fi"><textarea class="text_mess" cols="50" rows="8" type="text" value="Message" onfocus="if (value =='Message'){value =''}" onblur="if (value ==''){value='Message'}"></textarea></div>
+                    <form id="contact_form" action="services/dl" method="post">
+                        <div class="mess_fi"><input class="ipt_mess" type="text" name="name" value="Name" onfocus="if (value =='Name'){value =''}" onblur="if (value ==''){value='Name'}" /></div>
+                        <div class="mess_fi"><input class="ipt_mess" type="text" name="email" value="Email" onfocus="if (value =='Email'){value =''}" onblur="if (value ==''){value='Email'}" /></div>
+                        <div class="mess_fi"><textarea class="text_mess" cols="50" rows="8" name="message" type="text" value="Message" onfocus="if (value =='Message'){value =''}" onblur="if (value ==''){value='Message'}"></textarea></div>
                         <div class="mess_fi"><input class="ipt_btn" type="submit" value="SEND" /></div>
                     </form>
                 </div>

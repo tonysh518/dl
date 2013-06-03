@@ -4,28 +4,67 @@
     <list default="true" id="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" name="Default" comment="" />
     <ignored path="dl.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369793809635" ignored="false" />
+    <file path="/Dummy.txt" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370228032994" ignored="false" />
     <file path="/dl.info" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369797665182" ignored="false" />
     <file path="/page--who.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369799248665" ignored="false" />
-    <file path="/page--contact.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369752200583" ignored="false" />
-    <file path="/page--project.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369747990813" ignored="false" />
+    <file path="/page--contact.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370105517511" ignored="false" />
+    <file path="/page--project.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369815337430" ignored="false" />
     <file path="/page.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369748026320" ignored="false" />
     <file path="/node-project.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369748889786" ignored="false" />
-    <file path="/node--project.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369799600161" ignored="false" />
+    <file path="/node--project.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370168673218" ignored="false" />
     <file path="/page--clients.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369751895235" ignored="false" />
-    <file path="/style.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369800859317" ignored="false" />
+    <file path="/style.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370169370166" ignored="false" />
     <file path="/page--project-list.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369754982011" ignored="false" />
-    <file path="/views-view-fields--project--page.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369755257270" ignored="false" />
-    <file path="/node--before_after.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369759367169" ignored="false" />
+    <file path="/views-view-fields--project--page.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369814236555" ignored="false" />
+    <file path="/node--before_after.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370168684573" ignored="false" />
     <file path="/project_list.html" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369761532896" ignored="false" />
-    <file path="/views-view-fields--press--page.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369797789480" ignored="false" />
-    <file path="/index.html" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369762369235" ignored="false" />
-    <file path="/jquery.bxslider.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369794605269" ignored="false" />
+    <file path="/views-view-fields--press--page.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370077266998" ignored="false" />
+    <file path="/index.html" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370236799539" ignored="false" />
+    <file path="/jquery.bxslider.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370168187876" ignored="false" />
     <file path="/before.js" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369764990616" ignored="false" />
     <file path="/html.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369765233611" ignored="false" />
-    <file path="/main.js" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369801117528" ignored="false" />
-    <file path="/config.js" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369797499320" ignored="false" />
+    <file path="/main.js" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370170317033" ignored="false" />
+    <file path="/config.js" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370167691224" ignored="false" />
     <file path="/jquery.fancybox.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369799960683" ignored="false" />
+    <file path="/page--front.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369820951508" ignored="false" />
+    <file path="$PROJECT_DIR$/../superboomi/themes/bartik/templates/page--front.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369988913343" ignored="false" />
+    <file path="$PROJECT_DIR$/../superboomi/themes/bartik/css/style.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369994040654" ignored="false" />
+    <file path="$PROJECT_DIR$/../brdg/js/brdg.main.js" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369982479384" ignored="false" />
+    <file path="/brdg.main.js" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369982375160" ignored="false" />
+    <file path="$PROJECT_DIR$/../brdg/css/animation.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369973821964" ignored="false" />
+    <file path="/animation.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369880393121" ignored="false" />
+    <file path="/styles.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370239362530" ignored="false" />
+    <file path="$PROJECT_DIR$/../brdg/css/styles.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370239362530" ignored="false" />
+    <file path="$PROJECT_DIR$/../brdg/js/brdg.main_mobile.js" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369978110039" ignored="false" />
+    <file path="/brdg.main_mobile.js" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369899225532" ignored="false" />
+    <file path="$PROJECT_DIR$/../brdg/css/styles_mobile.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369885923170" ignored="false" />
+    <file path="/styles_mobile.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369885730517" ignored="false" />
+    <file path="/a.dummy" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369886823707" ignored="false" />
+    <file path="$PROJECT_DIR$/../brdg/data/sites/all/modules/brdg/brdg_core/brdg_core.module" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369887608649" ignored="false" />
+    <file path="/brdg_core.module" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369887605794" ignored="false" />
+    <file path="$PROJECT_DIR$/../brdg/css/soundcloud.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369896750872" ignored="false" />
+    <file path="/soundcloud.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369896653107" ignored="false" />
+    <file path="$PROJECT_DIR$/../superboomi/themes/bartik/js/bm_services.js" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369987731013" ignored="false" />
+    <file path="$PROJECT_DIR$/../superboomi/themes/bartik/templates/homeslider_en.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369992469603" ignored="false" />
+    <file path="$PROJECT_DIR$/../superboomi/themes/bartik/templates/node--comics.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369987731013" ignored="false" />
+    <file path="$PROJECT_DIR$/../superboomi/themes/bartik/js/jquery.infinitescroll.min.js" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369987731013" ignored="false" />
+    <file path="$PROJECT_DIR$/../superboomi/themes/bartik/templates/html.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369987731013" ignored="false" />
+    <file path="$PROJECT_DIR$/../superboomi/themes/bartik/js/main.js" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369992512927" ignored="false" />
+    <file path="/homeslider_en.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369992461945" ignored="false" />
+    <file path="$PROJECT_DIR$/../superboomi/themes/bartik/templates/homeslider_cn.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369992490770" ignored="false" />
+    <file path="$PROJECT_DIR$/../lotus/data/application/config/database.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369999751930" ignored="false" />
+    <file path="$PROJECT_DIR$/../lotus/data/application/controllers/message.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1369999639219" ignored="false" />
+    <file path="$USER_HOME$/Desktop/page-index.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370075143535" ignored="false" />
+    <file path="/page--press.tpl.php" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370096372737" ignored="false" />
+    <file path="/index.htm" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370098260661" ignored="false" />
+    <file path="/cloudzoom.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370100026658" ignored="false" />
+    <file path="/dl_services.info" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370104190325" ignored="false" />
+    <file path="/dl.module" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370158617315" ignored="false" />
+    <file path="/dl.inc" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370160687913" ignored="false" />
+    <file path="$PROJECT_DIR$/../91150th/app/main.js" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370228254156" ignored="false" />
+    <file path="$PROJECT_DIR$/../91150th/css/base.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370237087932" ignored="false" />
+    <file path="/base.css" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370237057232" ignored="false" />
+    <file path="$PROJECT_DIR$/../91150th/index.html" changelist="0be2959c-d5a6-4b02-85ae-1a7a1bea0497" time="1370236802105" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,55 +84,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
+      <file leaf-file-name="bm_storyidea.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../superboomi/themes/bartik/js/bm_storyidea.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="18" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views-view-fields--project--page.tpl.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/project/views-view-fields--project--page.tpl.php">
+      <file leaf-file-name="bm_printing.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../superboomi/themes/bartik/js/bm_printing.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="146" selection-start="173" selection-end="173" vertical-scroll-proportion="0.016088061">
+            <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../91150th/app/main.js">
+      <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1063" column="28" selection-start="36728" selection-end="36759" vertical-scroll-proportion="-23.076923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page--before-after.tpl.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/page--before-after.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="409" selection-end="458" vertical-scroll-proportion="-10.178572">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page--before-after-node.tpl.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/page--before-after-node.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="9" selection-start="330" selection-end="330" vertical-scroll-proportion="-9.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page--project-node.tpl.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/page--project-node.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="9" selection-start="331" selection-end="331" vertical-scroll-proportion="-9.5">
+            <state line="45" column="58" selection-start="1419" selection-end="1419" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -102,8 +114,10 @@
       <file leaf-file-name="node--before_after.tpl.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/node--before_after.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="95" selection-start="39" selection-end="130" vertical-scroll-proportion="-0.6785714">
-              <folding />
+            <state line="6" column="42" selection-start="295" selection-end="295" vertical-scroll-proportion="-4.071429">
+              <folding>
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,10 +125,28 @@
       <file leaf-file-name="node--project.tpl.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/node--project.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="8" selection-start="346" selection-end="346" vertical-scroll-proportion="-3.392857">
+            <state line="9" column="38" selection-start="372" selection-end="372" vertical-scroll-proportion="-6.107143">
               <folding>
-                <element signature="n#style#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page--project.tpl.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/page--project.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="18" selection-start="812" selection-end="812" vertical-scroll-proportion="0.25740898">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="250" column="70" selection-start="8416" selection-end="8416" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,18 +154,27 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="119" column="9" selection-start="6254" selection-end="6254" vertical-scroll-proportion="0.0">
+            <state line="35" column="26" selection-start="1821" selection-end="1821" vertical-scroll-proportion="0.0">
               <folding>
-                <marker date="1369800874000" expanded="true" signature="1078:1102" placeholder="{...}" />
+                <marker date="1370169370000" expanded="true" signature="1078:1102" placeholder="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.fancybox.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/css/jquery.fancybox.css">
+      <file leaf-file-name="jquery.bxslider.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jquery-plugin/slider/jquery.bxslider.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="42" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.0">
+            <state line="98" column="17" selection-start="1868" selection-end="1868" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dl.inc" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/dl/dl.inc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="118" selection-end="118" vertical-scroll-proportion="-6.107143">
               <folding />
             </state>
           </provider>
@@ -157,28 +198,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/sites/all/themes/dl/dl.info" />
-        <option value="$PROJECT_DIR$/sites/all/themes/dl/templates/press/views-view-fields--press--page.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/dl/templates/page.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/dl/templates/article/page--who.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/dl/templates/article/page--what.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/dl/templates/article/page--contact.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/dl/templates/page--before-after.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/dl/templates/page--before-after-node.tpl.php" />
+        <option value="$PROJECT_DIR$/src/jquery-plugin/slider/jquery.fancybox.pack.js" />
         <option value="$PROJECT_DIR$/sites/all/themes/dl/templates/page--press.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/dl/templates/page--project.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/dl/templates/page--project-node.tpl.php" />
+        <option value="$USER_HOME$/Github/web/src/cloudzoom/index.htm" />
+        <option value="$PROJECT_DIR$/src/cloudzoom/cloudzoom.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/dl/templates/project/views-view-fields--project--page.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/modules/dl_services/dl_services.info" />
+        <option value="$PROJECT_DIR$/sites/all/modules/dl/dl.info" />
+        <option value="$PROJECT_DIR$/sites/all/modules/dl/dl.module" />
+        <option value="$PROJECT_DIR$/sites/all/themes/dl/templates/article/page--contact.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/modules/dl/dl.inc" />
+        <option value="$PROJECT_DIR$/js/config.js" />
+        <option value="$PROJECT_DIR$/src/jquery-plugin/slider/jquery.bxslider.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/dl/templates/node--project.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/dl/css/jquery.fancybox.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/dl/templates/node--before_after.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/dl/css/style.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/sites/all/themes/dl/templates/project/views-view-fields--project--page.tpl.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="27" />
+    <option name="y" value="22" />
     <option name="width" value="2540" />
     <option name="height" value="1357" />
   </component>
@@ -251,6 +292,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bartik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bartik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -309,37 +390,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jquery-plugin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery-plugin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="easing" />
+              <option name="myItemId" value="cloudzoom" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -533,40 +584,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="clients" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="article" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -597,7 +614,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -628,6 +645,54 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dl" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -731,14 +796,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="2540" height="1357" extended-state="0" />
+    <frame x="0" y="22" width="2540" height="1357" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24979952" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25180432" sideWeight="0.6701698" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25581396" sideWeight="0.6701698" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -814,118 +879,118 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/article/page--who.tpl.php">
+    <entry file="file://$PROJECT_DIR$/../superboomi/themes/bartik/js/bm_readwatch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="6" selection-start="866" selection-end="912" vertical-scroll-proportion="-14.25">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/article/page--what.tpl.php">
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/dl/dl.info">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="867" selection-end="914" vertical-scroll-proportion="-14.928572">
-          <folding />
-        </state>
+        <state line="8" column="12" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/article/page--contact.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="28" selection-start="3104" selection-end="3104" vertical-scroll-proportion="-39.67857">
+        <state line="13" column="42" selection-start="495" selection-end="507" vertical-scroll-proportion="-0.32142857">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/page--press.tpl.php">
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/dl/dl.module">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="410" selection-end="457" vertical-scroll-proportion="-10.857142">
+        <state line="33" column="44" selection-start="820" selection-end="838" vertical-scroll-proportion="-22.392857">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/page--project.tpl.php">
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/dl/dl.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="410" selection-end="459" vertical-scroll-proportion="-10.857142">
+        <state line="9" column="0" selection-start="118" selection-end="118" vertical-scroll-proportion="-6.107143">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../91150th/app/main.js">
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/prev_next/prev_next.module">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1063" column="28" selection-start="36728" selection-end="36759" vertical-scroll-proportion="-23.076923">
+        <state line="586" column="27" selection-start="20782" selection-end="20800" vertical-scroll-proportion="7.7996573">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/page--before-after.tpl.php">
+    <entry file="file://$PROJECT_DIR$/../lotus/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="409" selection-end="458" vertical-scroll-proportion="-10.178572">
+        <state line="11" column="11" selection-start="301" selection-end="301" vertical-scroll-proportion="0.17287014">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/page--before-after-node.tpl.php">
+    <entry file="file://$PROJECT_DIR$/../superboomi/themes/bartik/js/bm_storyidea.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="9" selection-start="330" selection-end="330" vertical-scroll-proportion="-9.5">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/page--project-node.tpl.php">
+    <entry file="file://$PROJECT_DIR$/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="9" selection-start="331" selection-end="331" vertical-scroll-proportion="-9.5">
+        <state line="45" column="58" selection-start="1419" selection-end="1419" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../superboomi/themes/bartik/js/bm_printing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jquery-plugin/slider/jquery.bxslider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="17" selection-start="1868" selection-end="1868" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/node--before_after.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="95" selection-start="39" selection-end="130" vertical-scroll-proportion="-0.6785714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/node--project.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="8" selection-start="346" selection-end="346" vertical-scroll-proportion="-3.392857">
+        <state line="6" column="42" selection-start="295" selection-end="295" vertical-scroll-proportion="-4.071429">
           <folding>
-            <element signature="n#style#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/css/jquery.fancybox.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="42" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../91150th/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1235" column="0" selection-start="24500" selection-end="24745" vertical-scroll-proportion="0.8411371">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="9" selection-start="6254" selection-end="6254" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1369800874000" expanded="true" signature="1078:1102" placeholder="{...}" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="18" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
+        <state line="250" column="70" selection-start="8416" selection-end="8416" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/project/views-view-fields--project--page.tpl.php">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/node--project.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="146" selection-start="173" selection-end="173" vertical-scroll-proportion="0.016088061">
+        <state line="9" column="38" selection-start="372" selection-end="372" vertical-scroll-proportion="-6.107143">
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="26" selection-start="1821" selection-end="1821" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1370169370000" expanded="true" signature="1078:1102" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/dl/templates/page--project.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="18" selection-start="812" selection-end="812" vertical-scroll-proportion="0.25740898">
           <folding />
         </state>
       </provider>

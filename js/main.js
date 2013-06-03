@@ -8,17 +8,28 @@ define(function(require, exports, module) {
     require('jquery.slider');
     require('jquery.easing');
     require('jquery.fancybox');
+    require('jquery.isotope');
+    require('jquery.address');
+    require('cloudzoom');
+    require('jquery.form');
+    require('jquery.validate');
+    require('jquery.hoverIntent');
+    require('jquery.ui');
+
     // for main page
     $('.mod_slide,.mod_aboutslide').bxSlider({
         useCSS:false,
         easing:'easeOutQuart',
         auto:true,
-        speed:800
+        speed:800,
+        "onSliderLoad": function(){
+            $('.mod_slide').animate({opacity:1});
+        }
     });
     // for list page
     $(function(){
-        $(document).on('mouseenter' , '.project_item' , function(){
-           $(this).find('.pro_hover')
+        $('.project_item').hoverIntent(function(){
+            $(this).find('.pro_hover')
                 .show()
                 .css({
                     position: 'absolute',
@@ -48,11 +59,12 @@ define(function(require, exports, module) {
                     'top': '-20%',
                     'opacity': 0
                 });
-        });
-        $(document).on('mouseleave' , '.project_item' , function(){
-            $(this).find('.pro_hover')
-                .fadeOut();
-        });
+        },
+            function(){
+                $(this).find('.pro_hover')
+                    .fadeOut();
+            }
+        )
     });
 
     var stackBlur = require('stackblur');
@@ -62,6 +74,9 @@ define(function(require, exports, module) {
     var radius = 10;
 
     var $bxSlider = $('#bxslider').bxSlider({
+        infiniteLoop: false,
+        hideControlOnEnd: true,
+
         "onSliderLoad": function(){
             initMouseOverEvent();
             $bxSlider.find('li')
@@ -69,6 +84,13 @@ define(function(require, exports, module) {
                 .each( function(i , dom){
                     skackBlurImage( $(dom) , radius );
                 });
+            var path = '../'+$bxSlider.attr('data-prev-path');
+            var title = $bxSlider.attr('data-prev-title');
+            $('.bx-controls').append('<a title="'+title+'" class="prev-node" href="'+path+'">prev node</a>');
+            $('.prev-node').tooltip({
+                track: true
+            });
+            $('#bxslider').animate({opacity:1});
         }
         ,"onSlideBefore": function(){
             isSliding = true;
@@ -79,6 +101,26 @@ define(function(require, exports, module) {
                     skackBlurImage( $(dom) , radius );
                 });
             isSliding = false;
+            $('.prev-node').remove();
+            $('.next-node').remove();
+            if($bxSlider.getSlideCount() === newindex+1)
+            {
+                var path = '../'+$bxSlider.attr('data-next-path');
+                var title = $bxSlider.attr('data-next-title');
+                $('.bx-controls').append('<a title="'+title+'" class="next-node" href="'+path+'">next node</a>');
+                $('.next-node').tooltip({
+                    track: true
+                });
+            }
+            if(newindex === 0)
+            {
+                var path = '../'+$bxSlider.attr('data-prev-path');
+                var title = $bxSlider.attr('data-prev-title');
+                $('.bx-controls').append('<a title="'+title+'" class="prev-node" href="'+path+'">prev node</a>');
+                $('.prev-node').tooltip({
+                    track: true
+                });
+            }
         }
     });
 
@@ -188,13 +230,103 @@ define(function(require, exports, module) {
         $(this).find('.nav_menu').fadeOut();
     });
 
-    console.log(page_path);
+    if(page_path != undefined)
+    {
+        $('.nav_'+page_path).parent().addClass('on');
+    }
+
+    $('#project_filters').hoverIntent(function(){
+        $(this).animate({width:325},800,'easeInOutQuart',function(){
+            $(this).find('li').fadeIn(
+                function(){
+                   $('#project_filters li').css({display:'block'});
+                }
+            );
+        });
+    },function(){
+        $(this).find('li:not(.on)').animate({opacity:0},500,'easeInOutQuart',function(){
+            $(this).hide().css({opacity:1});
+            var width = $('#project_filters').find('li.on').width()+10;
+            $('#project_filters').animate({width:width},800,'easeInOutQuart',function(){
+                //$(this).find('li:not(.on)').hide().css({opacity:1});
+            });
+        });
+    })
+
+
+
+    if($('.page-project').length > 0)
+    {
+        $('.region-content').isotope({
+            itemSelector : '.project_item'
+
+        });
+        $.address.change(function(event){
+            var category = event.pathNames[0];
+            if(category == undefined)
+            {
+                category = "*";
+                classname = ".all";
+            }
+            else
+            {
+                category = "."+category;
+                classname = category;
+            }
+            $('.region-content').isotope({ filter: category });
+            $('#project_filters li').removeClass('on');
+            $('#project_filters').find(classname).parent().addClass('on');
+            return false;
+        });
+    }
 
     $('.press_item').fancybox({
         padding:0,
         openMethod : 'dropIn',
-        closeMethod : 'dropOut'
+        closeMethod : 'dropOut',
+        maxHeight: '90%',
+        afterShow: function(){
+            var src = $('.fancybox-image').attr('src');
+            $('.fancybox-image').addClass('cloudzoom').attr("data-cloudzoom", "zoomImage: '"+src+"'");
+            $('.fancybox-image').CloudZoom({zoomPosition:'inside',zoomOffsetX:0});
+        }
     });
+
+
+    //login
+    $('#contact_form').ajaxForm({
+        beforeSubmit:  function(){
+            return $("#contact_form").valid();
+        },
+        complete: function(xhr) {
+            res = JSON.parse(xhr.responseText);
+            console.log(res);
+            if(!isNaN(res.wid))
+            {
+                $('#contact_form').fadeOut(function(){
+                    $('#contact_form').html('<div class="success">Thank you!</div>');
+                    $(this).fadeIn();
+                });
+
+            }
+        },
+        dataType: 'json'
+    });
+
+    $("#contact_form").validate(
+        {
+            submitHandler: function(form){
+//                $(form).find('.formitm button').fadeOut(400);
+//                $(form).find('.formitm span').delay(400).fadeIn(400);
+            },
+            rules: {
+                email: { required: true, email: true }
+            },
+            messages: {
+                email: {required:'Please submit your email', email: 'Please submit your correct email'}
+            }
+        });
+
 
     (function ($, F) {
         F.transitions.dropIn = function() {

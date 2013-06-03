@@ -22,5 +22,5 @@
 </div>
 
 <script>
-    var page_path = 'what';
+    var page_path = 'studio';
 </script>

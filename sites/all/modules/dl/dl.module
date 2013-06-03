@@ -1,0 +1,40 @@
+<?php
+// note_service.module
+
+/**
+* Implementation of hook_services_resources().
+*/
+function dl_services_resources() {
+  return array(
+    'dl' => array(
+      'create' => array(
+        'help' => 'Creates a contact',
+        'file' => array('file' => 'inc', 'module' => 'dl'),
+        'callback' => '_dl_create',
+        'access callback' => '_dl_access',
+        'access arguments' => array('create'),
+        'access arguments append' => TRUE,
+        'args' => array(
+          array(
+            'name' => 'node',
+            'type' => 'struct',
+            'description' => 'The dl object',
+            'source' => 'data',
+            'optional' => FALSE,
+          ),
+        ),
+      ),
+    ),
+  );
+}
+
+function dl_permission() {
+    return array(
+        'dl resource create' => array(
+            'title' => t('dl resource create'),
+            'description' => t('dl resource create'),
+        ),
+    );
+}
+
+?>

@@ -23,7 +23,28 @@ seajs.config({
       ,'jquery.fancybox' : {
           src: '../../src/jquery-plugin/slider/jquery.fancybox.pack'
       }
-
+      ,'jquery.isotope' : {
+          src: '../../src/jquery-plugin/jquery.isotope.min'
+      }
+      ,'jquery.address' : {
+          src: '../../src/jquery-plugin/jquery.address.min'
+      }
+      ,'jquery.form' : {
+          src: '../../src/jquery-plugin/jquery.form'
+      }
+      ,'jquery.validate' : {
+          src: '../../src/jquery-plugin/jquery.validate'
+      }
+      ,'cloudzoom' : {
+          src: '../../src/cloudzoom/cloudzoom',
+          deps: ['../../src/cloudzoom/cloudzoom.css']
+      }
+      ,'jquery.hoverIntent' : {
+          src: '../../src/jquery-plugin/jquery.hoverIntent.minified'
+      }
+      ,'jquery.ui' : {
+          src: '../../src/jquery-plugin/jquery-ui-1.10.3.custom.min'
+      }
   }
   ,
   alias : {

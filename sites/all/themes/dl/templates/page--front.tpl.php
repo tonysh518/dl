@@ -4,12 +4,10 @@
     </div>
     <div class="pbd">
         <ul class="mod mod_slide" style="height:423px;overflow:hidden;font-size: 0px;line-height: 0px;">
-            <li><img src="demo/demo1.jpg" /></li>
-            <li><img src="demo/demo1.jpg" /></li>
-            <li><img src="demo/demo1.jpg" /></li>
-            <li><img src="demo/demo1.jpg" /></li>
-            <li><img src="demo/demo1.jpg" /></li>
-            <li><img src="demo/demo1.jpg" /></li>
+            <li><img src="pic/home1.jpg" /></li>
+            <li><img src="pic/home2.jpg" /></li>
+            <li><img src="pic/home3.jpg" /></li>
+            <li><img src="pic/home4.jpg" /></li>
         </ul>
     </div>
     <div class="pft">

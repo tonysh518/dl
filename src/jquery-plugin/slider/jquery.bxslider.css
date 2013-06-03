@@ -61,6 +61,7 @@
     font-weight: bold;
     color: #666;
     padding-top: 20px;
+    z-index:9999;
 }
 
 .bx-wrapper .bx-pager .bx-pager-item,
@@ -89,15 +90,40 @@
 }
 
 /* DIRECTION CONTROLS (NEXT / PREV) */
+.bx-wrapper .prev-node {
+    left: 10px;
+    background: url(images/prev.gif) no-repeat center;
+    position: absolute;
+    top: 0;
+    margin-top: 0;
+    z-index: 9998;
+    outline: 0;
+    width: 62px;
+    height: 100%;
+    text-indent: -9999px;
+}
+
+.bx-wrapper .next-node {
+    right: 10px;
+    background: url(images/next.gif) no-repeat center;
+    position: absolute;
+    top: 0;
+    margin-top: 0;
+    z-index: 9998;
+    outline: 0;
+    width: 62px;
+    height: 100%;
+    text-indent: -9999px;
+}
 
 .bx-wrapper .bx-prev {
     left: 10px;
-    background: url(images/prev.gif) no-repeat;
+    background: url(images/prev.gif) no-repeat center;
 }
 
 .bx-wrapper .bx-next {
     right: 10px;
-    background: url(images/next.gif) no-repeat
+    background: url(images/next.gif) no-repeat center;
 }
 
 .bx-wrapper .bx-prev:hover {
@@ -110,13 +136,13 @@
 
 .bx-wrapper .bx-controls-direction a {
     position: absolute;
-    top: 50%;
-    margin-top: -16px;
+    top: 0;
+    margin-top: 0;
     outline: 0;
-    width: 32px;
-    height: 32px;
+    width: 62px;
+    height: 100%;
     text-indent: -9999px;
-    z-index: 9999;
+    z-index: 9998;
 }
 
 .bx-wrapper .bx-controls-direction a.disabled {

@@ -1,0 +1,9 @@
+name = DL Services
+description = Services for the DL.
+package = DL Services
+core = 7.x
+
+
+dependencies[] = services
+files[] = dl.inc
+files[] = dl.module

@@ -30,6 +30,11 @@ a:hover{color:#939393}
 .phd{height:105px;position: relative;margin:25px 0 0}
 .phd_clients{margin: 20px 0 0;height:136px;}
 .phd_project{margin:25px 0 0;height:162px;}
+    .region-content {clear:both;}
+    #project_filters {float:right;height:30px;margin:0 51px 0 0;}
+    #project_filters li {float:left;margin:0 0 0 10px;display: none;}
+    #project_filters li.on {display: block;}
+    #project_filters li.on a {color:#333;}
 .phd_contact{height: 95px}
 	.logo{width:122px;height:16px;background:url(../img/main.gif) no-repeat 0 0;position: absolute;top:0;line-height: 100em;overflow: hidden}
 		.logo a{width:122px;height:16px;display: block;}
@@ -38,7 +43,7 @@ a:hover{color:#939393}
 		.navitem{float:left;height:40px;position: relative;}
 		.navitem a{padding:0 10px;}
         .navitem a:hover {color:#333;}
-        .navitem a.on{color:#666}
+        .navitem a.on{color:#333}
 
 	.nav_menu{background: url(../img/secondopen.gif) no-repeat 35px 0;position: absolute;top:25px;left:-10px;width:120px;padding:10px 0 0;display:none;}
 	.nav_menu_pro{left:18px;}
@@ -54,7 +59,7 @@ a:hover{color:#939393}
     .share_t:hover{opacity: 0.7;-moz-opacity:0.7;filter:alpha(opacity=70);}
 
 /* mod */
-.mod_slide{position: relative;width:950px;height: 423px;}
+.mod_slide{position: relative;width:950px;height: 423px;opacity:0;}
 	.slide_list{position: absolute;bottom:9px;right:0;}
 	.slide_list li{float:left;width:8px;height: 8px;background: #cecbcd;_display:inline;margin-right: 9px;cursor: pointer;overflow: hidden}
 	.slide_list li.on{background: #fff}
@@ -77,7 +82,7 @@ a:hover{color:#939393}
     .pic_bef{float:left;width:470px;height: 423px;overflow: hidden;}
     .pic_aft{float:right;width:470px;height: 423px;overflow: hidden;}
     .bef_aft_info h2,
-    .address h2{font-size:46px;font-weight: normal;line-height: 46px;height: 54px;padding:30px 0 0;color:#333;font-family: 'HelveticaNeueLTPro-UltLt'}
+    .address h2{font-size:46px;font-weight: normal;line-height: 46px;height: 54px;padding:30px 0 0;color:#333;font-family: 'HelveticaNeueLTPro-UltLt'; text-transform: uppercase;}
     .bef_aft_fi p{float:left;color:#888}
     .bef_aft_fi .bef_aft_label{text-align: right;width:50px;color:#000;padding-right:26px}
 .mod_contact{color:#888;padding: 0 0 50px}
@@ -108,6 +113,71 @@ body .bx-wrapper .bx-pager.bx-default-pager a:hover{
     background: white;
 }
 
+
+/**** Isotope Filtering ****/
+
+.isotope-item {
+    z-index: 2;
+}
+
+.isotope-hidden.isotope-item {
+    pointer-events: none;
+    z-index: 1;
+}
+
+/**** Isotope CSS3 transitions ****/
+
+.isotope,
+.isotope .isotope-item {
+    -webkit-transition-duration: 0.8s;
+    -moz-transition-duration: 0.8s;
+    -ms-transition-duration: 0.8s;
+    -o-transition-duration: 0.8s;
+    transition-duration: 0.8s;
+}
+
+.isotope {
+    -webkit-transition-property: height, width;
+    -moz-transition-property: height, width;
+    -ms-transition-property: height, width;
+    -o-transition-property: height, width;
+    transition-property: height, width;
+}
+
+.isotope .isotope-item {
+    -webkit-transition-property: -webkit-transform, opacity;
+    -moz-transition-property:    -moz-transform, opacity;
+    -ms-transition-property:     -ms-transform, opacity;
+    -o-transition-property:      -o-transform, opacity;
+    transition-property:         transform, opacity;
+}
+
+/**** disabling Isotope CSS3 transitions ****/
+
+.isotope.no-transition,
+.isotope.no-transition .isotope-item,
+.isotope .isotope-item.no-transition {
+    -webkit-transition-duration: 0s;
+    -moz-transition-duration: 0s;
+    -ms-transition-duration: 0s;
+    -o-transition-duration: 0s;
+    transition-duration: 0s;
+}
+
+/* End: Recommended Isotope styles */
+
+
+
+/* disable CSS transitions for containers with infinite scrolling*/
+.isotope.infinite-scrolling {
+    -webkit-transition: none;
+    -moz-transition: none;
+    -ms-transition: none;
+    -o-transition: none;
+    transition: none;
+}
+
+
 #googlemap {width:100%;height:400px;}
 
 .nav a,
@@ -119,3 +189,19 @@ body .bx-wrapper .bx-pager.bx-default-pager a:hover{
 .ipt_btn,
 .ipt_mess,.text_mess
 {-webkit-transition:   all 0.3s ease;-moz-transition:  all 0.3s ease;-o-transition:  all 0.3s ease;-ms-transition:  all 0.3s ease;transition:  all 0.3s ease;}
+
+#fancybox-c-prev {position:absolute;left:0;top:0;z-index:9999;width:30px;height:100%;background:#000;}
+
+.page-press .fancybox-prev {position: fixed;left:0;top:0;background:url(../images/comment-arrow.gif) no-repeat center;width:100px;opacity:0.4;}
+.page-press .fancybox-next {position: fixed;right:0;top:0;background:url(../images/comment-arrow-rtl.gif) no-repeat center;width:100px;opacity:0.4;}
+
+.ui-tooltip {
+    opacity:0.7;
+    background:#fff;
+    color:#000;
+    position: absolute;
+    padding:5px 10px;
+}
+
+#bxslider {opacity:0;}
+.project_gallery_wrap {height:423px;}
